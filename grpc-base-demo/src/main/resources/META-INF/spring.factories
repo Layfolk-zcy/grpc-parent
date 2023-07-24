@@ -1,0 +1,5 @@
+# AutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.autoconfigure.GrpcDiscoveryClientAutoConfiguration,\
+  com.autoconfigure.GrpcClientAutoConfiguration,\
+  com.autoconfigure.GrpcServerConfiguration
